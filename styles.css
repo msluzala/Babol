@@ -1,6 +1,3 @@
-/*sredniki i klamerki*/
-
-/*hero*/
 .hero {
     padding-top: 40px;
     padding-bottom: 200px;
@@ -14,13 +11,6 @@
     margin-left: 10px;
     margin-top: 10px;
 }
-
-/*.hero-content {
-    max-width: 1300px;
-    margin-left: auto;
-    margin-right: auto;
-}
-przesuwa logo w prawo*/
 
 .nav {
     position: fixed;
@@ -149,32 +139,10 @@ przesuwa logo w prawo*/
     font-family: 'Caveat';
     text-align: center;
 }
-  
-  
-/*.figure {
-    max-width: 30%;
-    margin: 0;
-    display: inline-flex;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-.figure { 
-    flex-wrap: wrap;
-    justify-items: center;
-    text-align: center;
-    display: inline-flex;
-    justify-content: center;
-}
-*/
 
 .figure-image {
-    /*width: 100%;
-    height: 250px;*/
     border-radius: 8px;
-    max-width: 20%;
-
-    /*object-fit: cover;*/ 
-     
+    max-width: 20%;     
 }
 
 .div-image {
@@ -183,15 +151,3 @@ przesuwa logo w prawo*/
     text-align: center;
     flex-direction: row;
 }
-
-
-/* 
-button {
-  background-color: pink;
-  font-size: 20px;
-  padding: 20px;
-  margin: 20px;
-  border: 1px solid red;
-  border-radius: 10px;
-}
-*/
