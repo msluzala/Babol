@@ -189,7 +189,12 @@ przesuwa logo w prawo*/
 
 
     /*object-fit: cover;*/ 
-     
+    cursor: pointer;
+    transition: transform 0.3s ease-out;
+}
+.figure-image:hover {
+    transform: scale(1.5);
+    z-index: 1;
 }
 
 .div-image {
