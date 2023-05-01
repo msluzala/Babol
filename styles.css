@@ -193,7 +193,7 @@ przesuwa logo w prawo*/
     transition: transform 0.3s ease-out;
 }
 .figure-image:hover {
-    transform: scale(1.5);
+    transform: scale(1.8);
     z-index: 1;
 }
 
