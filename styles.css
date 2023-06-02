@@ -202,6 +202,7 @@ przesuwa logo w prawo*/
 /* 1 czerwca*/
 .section-pcz {
     padding: 100px;
+    background-color: #e3fcff;
 }
 
 .about-heading-pcz {
@@ -245,9 +246,6 @@ przesuwa logo w prawo*/
     border-radius: 8px;
     max-width: 70%;
     justify-content: center;
-
-
-   
     cursor: pointer;
     transition: transform 0.3s ease-out;
 }
