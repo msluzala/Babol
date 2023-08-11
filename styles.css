@@ -200,23 +200,27 @@ przesuwa logo w prawo*/
     justify-content: center;
 }
 /* 1 czerwca*/
-.section-pcz {
+.section-pcz
+.klepsydra {
     padding: 100px;
     background-color: #e3fcff;
 }
 
-.about-heading-pcz {
+.about-heading-pcz
+.klepsydra-heading {
     text-align: center;
     font-size: 40px;
     font-family: 'Dancing Script';
 }
 
-.about-text-pcz {
+.about-text-pcz 
+.klepsydra-text {
     font-size: 25px;
     font-family: 'Caveat';
 }
 
-.div-image2 {
+.div-image2 
+.klepsydra-div-images {
     display: inline-flex;
     flex-wrap: wrap;
     text-align: center;
@@ -224,7 +228,8 @@ przesuwa logo w prawo*/
     justify-content: center;
 }
 
-.figure2 {
+.figure2 
+.klepsydra-figure {
     max-width: 20%;
     margin: 0;
   }
@@ -254,7 +259,7 @@ przesuwa logo w prawo*/
     z-index: 1;
 }
 
-/* klepsydra */
+/* klepsydra 
 .klepsydra {
   padding: 100px;
   background-color: #e3fcff;
@@ -307,4 +312,4 @@ przesuwa logo w prawo*/
   border-radius: 8px;
   max-width: 80%;
   justify-content: center;
-}
+} */
