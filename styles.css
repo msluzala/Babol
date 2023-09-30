@@ -338,7 +338,7 @@ przesuwa logo w prawo*/
 .header-a-m-mail {
   font-size: 24px;
   text-align: center; 
-  color: rgb(0, 0, 0);
+  color: rgb(238, 178, 188);
   display: inline-flex;
   flex-wrap: wrap;
   flex-direction: row;
