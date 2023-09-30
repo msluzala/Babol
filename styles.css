@@ -255,9 +255,9 @@ przesuwa logo w prawo*/
 }
 
 /* klepsydra */
-.klepsydra {
+.section-klepsydra {
   padding: 100px;
-  background-color: #e3fcff;
+  background-color: #e8e8e8;
 }
 
 .klepsydra-heading {
@@ -307,4 +307,41 @@ przesuwa logo w prawo*/
   border-radius: 8px;
   max-width: 80%;
   justify-content: center;
-} 
+}
+
+/*about mom*/
+
+.section-about-mom {
+  text-align: center;
+    background-color: rgb(250, 240, 227);
+    padding: 15px;
+}
+
+.main-heading-a-m {
+  font-size: 60px;
+  font-family: 'Dancing Script', cursive;
+  color: rgb(0, 0, 0);
+  text-align: center; 
+}
+
+.header-link-a-m {
+  font-size: 24px;
+  text-align: center; 
+  color: #1b211b;
+  display: inline-flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+   
+}
+
+.header-a-m-mail {
+  font-size: 24px;
+  text-align: center; 
+  color: rgb(0, 0, 0);
+  display: inline-flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  
+}
