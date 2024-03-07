@@ -187,10 +187,10 @@ przesuwa logo w prawo*/
     cursor: pointer;
     transition: transform 0.3s ease-out;
 }
-.figure-image:hover {
+/* .figure-image:hover {
     transform: scale(1.8);
     z-index: 1;
-}
+} */
 
 .div-image {
     display: inline-flex;
@@ -249,10 +249,10 @@ przesuwa logo w prawo*/
     cursor: pointer;
     transition: transform 0.3s ease-out;
 }
-.figure-image2:hover {
+/* .figure-image2:hover {
     transform: scale(1.8);
     z-index: 1;
-}
+} */
 
 /* klepsydra */
 .section-klepsydra {
