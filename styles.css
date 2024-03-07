@@ -166,6 +166,8 @@ przesuwa logo w prawo*/
 .figure {
     max-width: 30%;
     margin: 0;
+    margin-bottom: auto;
+    margin-top: auto;
   }
   
   @media (max-width: 800px) {
